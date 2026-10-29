@@ -8,9 +8,11 @@ The interface is in Spanish.
 
 ## Screenshots
 
-| Desktop | Mobile |
-| --- | --- |
-| ![Desktop view](docs/screenshots/desktop.png) | ![Mobile view](docs/screenshots/mobile.png) |
+<p>
+  <img src="docs/screenshots/desktop.png" alt="Desktop view showing the weather in Querétaro" width="620" />
+  &nbsp;
+  <img src="docs/screenshots/mobile.png" alt="Mobile view at 360 px wide" width="190" />
+</p>
 
 ## What it does
 
