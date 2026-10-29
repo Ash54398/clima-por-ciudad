@@ -4,7 +4,7 @@ A small web app to check the current weather in any city. Type a city name and i
 
 The interface is in Spanish.
 
-**Live demo:** [clima-por-ciudad.vercel.app](https://clima-por-ciudad.vercel.app) <!-- TODO: replace with the real Vercel URL -->
+**Live demo:** [clima-por-ciudad.vercel.app](https://clima-por-ciudad.vercel.app)
 
 ## Screenshots
 
