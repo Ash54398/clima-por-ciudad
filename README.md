@@ -58,7 +58,7 @@ You'll need Node.js 20 or newer and a free API key from [OpenWeather](https://ho
 1. Clone the repo and install the dependencies:
 
    ```bash
-   git clone https://github.com/<your-username>/clima-por-ciudad.git
+   git clone https://github.com/Ash54398/clima-por-ciudad.git
    cd clima-por-ciudad
    npm install
    ```
